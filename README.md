@@ -11,7 +11,7 @@ This package provides implementations of various process scheduling algorithms. 
 You can install this package via npm. Make sure you have Node.js and npm installed on your machine.
 
 ```bash
-npm install your-package-name
+npm install processSchedulingAlgo
 
 Replace your-package-name with the actual name of your package.
 
